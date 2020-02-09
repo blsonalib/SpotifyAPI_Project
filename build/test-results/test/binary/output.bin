@@ -1,0 +1,85 @@
+{
+    "country": "IN",
+    "display_name": "sona",
+'    "email": "sonabankar05@gmail.com",
+    "explicit_content": {
+!        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+M        "spotify": "https://open.spotify.com/user/52llqqsb6aonwweyz9mnwb5ds"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+J    "href": "https://api.spotify.com/v1/users/52llqqsb6aonwweyz9mnwb5ds",
+'    "id": "52llqqsb6aonwweyz9mnwb5ds",
+    "images": [
+	        
+    ],
+    "product": "open",
+    "type": "user",
+4    "uri": "spotify:user:52llqqsb6aonwweyz9mnwb5ds"
+}
+%User id is 52llqqsb6aonwweyz9mnwb5ds
+{
+    "display_name": "sona",
+    "external_urls": {
+M        "spotify": "https://open.spotify.com/user/52llqqsb6aonwweyz9mnwb5ds"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+J    "href": "https://api.spotify.com/v1/users/52llqqsb6aonwweyz9mnwb5ds",
+'    "id": "52llqqsb6aonwweyz9mnwb5ds",
+    "images": [
+	        
+    ],
+    "type": "user",
+4    "uri": "spotify:user:52llqqsb6aonwweyz9mnwb5ds"
+}
+{
+    "collaborative": false,
+"    "description": "Latest song",
+    "external_urls": {
+N        "spotify": "https://open.spotify.com/playlist/5uFOvmQb3SFCbpo0Dh39IV"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+K    "href": "https://api.spotify.com/v1/playlists/5uFOvmQb3SFCbpo0Dh39IV",
+$    "id": "5uFOvmQb3SFCbpo0Dh39IV",
+    "images": [
+	        
+    ],
+!    "name": "Heart touch Songs",
+    "owner": {
+         "display_name": "sona",
+        "external_urls": {
+Q            "spotify": "https://open.spotify.com/user/52llqqsb6aonwweyz9mnwb5ds"
+        },
+N        "href": "https://api.spotify.com/v1/users/52llqqsb6aonwweyz9mnwb5ds",
++        "id": "52llqqsb6aonwweyz9mnwb5ds",
+        "type": "user",
+8        "uri": "spotify:user:52llqqsb6aonwweyz9mnwb5ds"
+    },
+    "primary_color": null,
+    "public": false,
+O    "snapshot_id": "MSwyMmE3MGVjYTY2MWViNWYxMjY5YjQzOTBjOGRkYzEyZTU1NzBkNGQx",
+    "tracks": {
+V        "href": "https://api.spotify.com/v1/playlists/5uFOvmQb3SFCbpo0Dh39IV/tracks",
+        "items": [
+            
+        ],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+5    "uri": "spotify:playlist:5uFOvmQb3SFCbpo0Dh39IV"
+}
